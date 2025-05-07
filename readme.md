@@ -12,5 +12,6 @@ cocogitto
 
 ### CoCoGittO 
 - Install the tool `cargo install cocogitto`
-- `cog init`
+- `cog init` (just the firs time)
+- `git add` as usual
 - 
