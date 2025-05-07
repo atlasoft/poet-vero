@@ -14,4 +14,4 @@ cocogitto
 - Install the tool `cargo install cocogitto`
 - `cog init` (just the firs time)
 - `git add` as usual
-- 
+- `cog commit <feat|fix|chore|...> <message>` to commit the changes with CoCo
