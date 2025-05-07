@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.1 - 2025-05-07
+#### Bug Fixes
+- test fix commit - (bcefb51) - atlasoft
+
+- - -
+
 ## 0.1.0 - 2025-05-07
 #### Features
 - Add cocogitto config - (7248383) - atlasoft
