@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2025-05-07
+#### Miscellaneous Chores
+- update cocogitto readme part - (4ea5a76) - atlasoft
+
+- - -
+
 ## 0.1.1 - 2025-05-07
 #### Bug Fixes
 - test fix commit - (bcefb51) - atlasoft
