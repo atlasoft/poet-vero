@@ -17,4 +17,4 @@ cocogitto
 - `cog commit <feat|fix|chore|...> <message>` to commit the changes with CoCo
 - `cog bump --<auto|major|minor|patch` to bump the version tag and push to the repository. 
   
-  - enjoy 
+  - enjoy or not 
